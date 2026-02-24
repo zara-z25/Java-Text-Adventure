@@ -17,7 +17,8 @@ A multi-file text-based adventure game in Java inspired by classic interactive f
 - Modular software design
 
 ## How to Run
-1. Navigate to the `src` folder
+## How to Run
+1. Clone or download the repo
 2. Compile all `.java` files:
 ```bash
 javac *.java
